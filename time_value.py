@@ -47,3 +47,4 @@ if __name__ == '__main__':
     assert TimeValue.GET_YEAR_IN_DAYS == 365
     assert TimeValue.GET_DAY_IN_HOURS == 24
     assert TimeValue.GET_WEEK_IN_DAYS == 7
+    print "Tests passed"
